@@ -2,7 +2,6 @@
 
 Here, I have applied Long Short Term Memory variants to perform classification of comments on social media based on their toxicities at a tabular csv dataset.
 
-<div align="center">
 
 #  Multi-Label Toxic Comment Classification
 ### A Statistical Stability & Production Readiness Benchmark Across LSTM Architectures
@@ -11,7 +10,6 @@ Here, I have applied Long Short Term Memory variants to perform classification o
 
 *Beyond single-split accuracy: diagnosing model collapse, proving cross-fold reliability via hypothesis testing, and benchmarking sub-millisecond production latency.*
 
-[Overview](#-overview) • [Pipeline Architecture](#-pipeline-architecture) • [Benchmark Results](#-benchmark-results) • [Final Verdict](#-final-production-verdict) • [Quick Start](#-quick-start)
 
 </div>
 
